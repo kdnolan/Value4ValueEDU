@@ -1,1 +1,2 @@
-create web3 [.glb avatar] (https://mozillahubs.readyplayer.me/)
+create web3 [.glb avatar](https://mozillahubs.readyplayer.me/)
+
