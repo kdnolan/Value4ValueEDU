@@ -7,8 +7,6 @@ Github as an LMS
 
 [paypal.me/kdnolan](paypal.me/kdnolan)
 
-[Bitcoin Onchain](links)
-
 
 Made popular by Adam Curry and John C. Dvorak with their No Agenda Show podcast that has been running since 2007, the Value 4 Value model has been around for centuries. Its most popular age-old example is busking. 
 
