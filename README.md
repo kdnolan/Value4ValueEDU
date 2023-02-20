@@ -3,7 +3,7 @@ combining flipped learning, Value4Value & Github as an LMS
 
 ⚡️ [kdnolan@getalby.com](https://getalby.com/p/kdnolan)
 
-[credit card](https://revolut.me/kieranvmuk)
+[revolut](https://revolut.me/kieranvmuk)
 
 [paypal.me/kdnolan](paypal.me/kdnolan)
 
