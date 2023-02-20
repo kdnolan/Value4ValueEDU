@@ -1,12 +1,7 @@
 # Value4ValueEDU
 combining flipped learning, Value4Value & Github as an LMS
 
-⚡️ [kdnolan@getalby.com](https://getalby.com/p/kdnolan)
-
-[revolut](https://revolut.me/kieranvmuk)
-
-[paypal.me/kdnolan](paypal.me/kdnolan)
-
+⚡️ [kdnolan@getalby.com](https://getalby.com/p/kdnolan) - [revolut](https://revolut.me/kieranvmuk) - [paypal.me/kdnolan](paypal.me/kdnolan)
 
 What is flipped learning?
 
