@@ -1,5 +1,5 @@
 # Value4ValueEDU
-Combining flipped learning, Value4Value & Github as an LMS
+Combining Flipped Learning, Value4Value & Github into a Learning Management System.
 
 ⚡️ [kdnolan@getalby.com](https://getalby.com/p/kdnolan) - [revolut](https://revolut.me/kieranvmuk) - [paypal.me/kdnolan](paypal.me/kdnolan)
 
