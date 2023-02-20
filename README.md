@@ -14,7 +14,7 @@ https://youtu.be/sabtJOZQuXo
 
 Seth's story:
 https://www.theage.com.au/national/victoria/a-gifted-boy-left-singapore-to-enrol-in-this-public-school-20170803-gxoger.html
-https://youtu.be/3FvSLA-Kvvs
+Singapore TV: https://youtu.be/3FvSLA-Kvvs
 
 
 What is flipped learning?
