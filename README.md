@@ -5,6 +5,18 @@ Combining Flipped Learning, Value4Value & Github into a Learning Management Syst
 
 ₿ Onchain: [bc1q4axkrc4w85r252e0crwhzk0sudnndj8wul6tkx](https://blockstream.info/address/bc1q4axkrc4w85r252e0crwhzk0sudnndj8wul6tkx)
 
+
+
+
+https://user-images.githubusercontent.com/4064893/220211600-c0ffd1d8-3679-48b0-9116-8e43eab08d81.mp4
+
+https://youtu.be/sabtJOZQuXo
+
+Seth's story:
+https://www.theage.com.au/national/victoria/a-gifted-boy-left-singapore-to-enrol-in-this-public-school-20170803-gxoger.html
+https://youtu.be/3FvSLA-Kvvs
+
+
 What is flipped learning?
 
 Flipped learning, also known as flipped classroom, is an educational approach that reverses the traditional order of teaching. In a flipped learning model, students first learn new concepts at home or outside the classroom, typically through watching pre-recorded video lectures, reading material, or completing interactive online modules. In-class time is then used for hands-on activities, discussion, and problem-solving, with the teacher serving as a facilitator and guide to support students in applying what they have learned. This approach allows for a more student-centered learning experience and promotes active learning, collaboration, and critical thinking skills. The flipped learning model also provides flexibility, allowing students to learn at their own pace and receive personalized attention from the teacher during in-class activities. The teacher can assess student understanding and provide feedback in real-time, helping students to identify areas where they may need additional support. Flipped learning has been used in a variety of educational settings, from K-12 classrooms to higher education, and can be particularly effective in subjects where hands-on learning is important, such as science, math, and engineering.
