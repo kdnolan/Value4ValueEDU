@@ -2,7 +2,8 @@
 combining flipped learning, Value4Value & Github as an LMS
 
 ⚡️ [kdnolan@getalby.com](https://getalby.com/p/kdnolan) - [revolut](https://revolut.me/kieranvmuk) - [paypal.me/kdnolan](paypal.me/kdnolan)
-Onchain: [bc1q4axkrc4w85r252e0crwhzk0sudnndj8wul6tkx](https://blockstream.info/address/bc1q4axkrc4w85r252e0crwhzk0sudnndj8wul6tkx)
+
+₿ Onchain: [bc1q4axkrc4w85r252e0crwhzk0sudnndj8wul6tkx](https://blockstream.info/address/bc1q4axkrc4w85r252e0crwhzk0sudnndj8wul6tkx)
 
 What is flipped learning?
 
